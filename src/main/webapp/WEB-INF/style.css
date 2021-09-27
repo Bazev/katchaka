@@ -1,0 +1,9 @@
+.inscription {
+    display: flex;
+    justify-content: space-around;
+}
+
+.formConnexion {
+    display: flex;
+    justify-content: space-around;
+}
